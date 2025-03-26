@@ -1,0 +1,25 @@
+{
+  "name": "typical_blog_project",
+  "version": "1.0.0",
+  "description": "luh calm Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABfathy/Typical_Blog_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ABfathy/Typical_Blog_project/issues"
+  },
+  "homepage": "https://github.com/ABfathy/Typical_Blog_project#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0"
+  }
+}
